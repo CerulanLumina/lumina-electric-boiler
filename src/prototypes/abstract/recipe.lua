@@ -11,6 +11,7 @@ local steam_recipe_base = {
     type = "recipe",
     name = "lumina-steam-",
     category = "lumina-electric-boiler-steam",
+    hide_from_player_crafting = true,
     ingredients = {
         {
             type   = "fluid",
