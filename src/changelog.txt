@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2023-05-11
+  Info:
+    - Added changelog for release 1.0.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-05-11
+  Bugfixes:
+    - Fixed recipe for electric boiler being enabled without research
+    - Fixed steam recipes appearing in player handcrafting under certain conditions.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2023-05-07
+  Features:
+    - Adds an electric boiler with variable steam temperature and power requirements
+    - Settings are available for fluid amount, power requirement, efficiency, temperature generation, tiers, and power priority.
+    - Technologies and recipes are provided for tiers 1-3 (only tier 1 is enabled by default)
